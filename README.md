@@ -8,7 +8,7 @@ BITS F110 - Engineering Graphics
 </h1>
 
 <p align="center">
-  <a href="">Course Handout</a> | <a href="https://drive.google.com/file/d/1L-GJTiio4BD6Qca0zG1BdWnSLe1L0ApE/view?usp=share_link">PSet Link</a>
+  <a href="">Course Handout</a>
 </p>
 
 
